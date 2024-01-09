@@ -1,4 +1,4 @@
-# PHP based-Visitor Management System
+# DBMS based-Visitor Management System
 
 <p>VMS or Visitor Management System is an utility for the receptionists who have to maintain a bulky and a very-hard-to-maintain record books for all the visitors that visit the company for their various reasons.</p>
 
